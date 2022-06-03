@@ -1,0 +1,54 @@
+{
+  "SEA": {
+    "lowTemperature": 25,
+    "highTemperature": 29
+  },
+  "BOS": {
+    "lowTemperature": 20,
+    "highTemperature": 22
+  },
+  "NYC": {
+    "lowTemperature": 15,
+    "highTemperature": 19
+  },
+  "LOS": {
+    "lowTemperature": 21,
+    "highTemperature": 26
+  },
+  "CHI": {
+    "lowTemperature": 11,
+    "highTemperature": 14
+  },
+  "HOU": {
+    "lowTemperature": 23,
+    "highTemperature": 25
+  },
+  "BER": {
+    "lowTemperature": -5,
+    "highTemperature": -1
+  },
+  "PRS": {
+    "lowTemperature": 3,
+    "highTemperature": 7
+  },
+  "MDR": {
+    "lowTemperature": 23,
+    "highTemperature": 29
+  },
+  "AKR": {
+    "lowTemperature": 32,
+    "highTemperature": 39
+  },
+  "LND": {
+    "lowTemperature": 7,
+    "highTemperature": 9
+  },
+  "MSK": {
+    "lowTemperature": -20,
+    "highTemperature": -5
+  },
+  "WOB": {
+    "lowTemperature": 11,
+    "highTemperature": 19
+  }
+}
